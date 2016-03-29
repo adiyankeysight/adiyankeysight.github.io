@@ -1,0 +1,14 @@
+{
+  "name": "adiyan",
+  "version": "1.0.0",
+  "description": "Application for Keysight",
+  "main": "index.js",
+  "dependencies": {
+    "sendmail": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
